@@ -1,3 +1,3 @@
-# for heading use hash
+# For heading use hash
 
 some lines about the project !!!
